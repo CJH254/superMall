@@ -13,7 +13,7 @@
 import MainTabBar from "./components/content/MainTabBar/MainTabBar";
 
 export default {
-  name: "app1",
+  name: "app",
   components: { MainTabBar }
 };
 </script>
